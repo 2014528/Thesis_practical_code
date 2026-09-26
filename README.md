@@ -4,7 +4,7 @@ This repository contains the practical implementation and experimental code for 
 
 The study investigates whether **retrieval strategy** and **document chunking configuration** affect retrieval performance and downstream answer quality.
 
-## Research Focus
+## Research Focus 
 
 The practical implementation compares three retrieval approaches:
 
