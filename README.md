@@ -1,4 +1,4 @@
-# Thesis Practical Code
+# Master Thesis
 
 This repository contains the practical implementation and experimental code for my master's thesis on **Retrieval-Augmented Generation (RAG) for question answering over university academic regulations**.
 
